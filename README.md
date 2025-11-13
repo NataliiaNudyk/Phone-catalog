@@ -50,3 +50,25 @@ npm run dev
 
 
 Then open your browser and go to http://localhost:5173/ (or the port shown in your terminal).
+
+
+## 📂 Folder Structure
+```
+phone-catalog/
+├── src/
+│   ├── components/
+│   ├── constants/
+│   ├── context/
+│   ├── hooks/
+│   ├── pages/
+│   ├── styles/
+│   ├── types/
+│   ├── utils/
+│   ├── App.scss
+│   ├── App.tsx
+│   ├── index.tsx
+├── public/
+├── package.json
+└── README.md
+
+```
