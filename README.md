@@ -30,3 +30,23 @@ Built with attention to detail, routing, and component reusability — this proj
 - SCSS / CSS Modules	Modular and maintainable styling
 - Vite / Parcel	Fast development and build tool
 - Git + GitHub Pages	Version control and deployment
+
+## 🚀 Getting Started
+
+To run this project locally:
+```
+# Clone the repository
+git clone https://github.com/NataliiaNudyk/Phone-catalog.git
+
+# Navigate to the project folder
+cd Phone-catalog
+
+# Install dependencies
+npm install
+
+# Start the development server
+npm run dev
+```
+
+
+Then open your browser and go to http://localhost:5173/ (or the port shown in your terminal).
